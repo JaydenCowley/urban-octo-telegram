@@ -1,5 +1,4 @@
 # Code Refactor Starter Code
-<<<<<<< HEAD
 Created a --main-font-color variable.
 Changed HTML tags to be more accurate.
 updated .css file to match changes made to the HTML file.
